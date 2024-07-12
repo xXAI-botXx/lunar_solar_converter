@@ -23,7 +23,8 @@ Just clone this repo and run the main.py.
 
 OR
 
-Open and run it easily on replit -> https://replit.com/@xXAIbotXx/lunarsolarconverter
+Click following link, it will open the project on replit -> https://replit.com/@xXAIbotXx/lunarsolarconverter?v=1 <br>
+Now fork my project and just run it online on replit. 
 
 
 
