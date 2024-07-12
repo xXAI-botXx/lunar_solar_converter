@@ -68,7 +68,7 @@ def lunar_to_solar():
     print(f"The corresponding Solar date is:\n    - day: {solar_date.day}\n    - month: {solar_date.month}\n    - year: {solar_date.year}\n")
 
 def console_asking():
-    print("☀️ Welcome! 🌔\nUse this software to convert dates from ☀️solar calendar to -> 🌔lunar calendar\n and also dates from 🌔lunar calendar to -> ☀️solar calendar.\n\n")
+    print("☀️ Welcome!🌔\nUse this software to convert dates from ☀️ solar calendar to -> 🌔lunar calendar\n and also dates from 🌔lunar calendar to -> ☀️ solar calendar.\n\n")
     while True:
         conversion_type = input("Is your input date Solar (to Lunar) or Lunar (to Solar)? (Enter 'solar' or 'lunar'): ").strip().lower()
         check_exit(conversion_type)
