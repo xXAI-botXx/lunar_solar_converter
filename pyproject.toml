@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "repl-nix-lunarsolarconverter"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+packages = [{include = "repl_nix_lunarsolarconverter"}]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+lunarcalendar = "^0.0.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
